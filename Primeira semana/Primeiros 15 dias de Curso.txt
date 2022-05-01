@@ -1,7 +1,12 @@
 Spread Fullstack Developer
 
-Modulo 1 - Cursando
+Modulo 1 - Conteudo de Abertura - CONCLUIDO
 	Boas vindas ao bootcamp - DONE
 	Logica de Programação	- DONE
 	Intro a Git/Github	- DONE
-	Criando  1 Rep Github	-
+	Criando  1 Rep Github	- DONE
+
+OBS.: Sendo assim, apos entregar o projeto, concluo o Modulo 1.
+
+Modulo 2 - HTML / CSS3	 - Cursando 
+	
